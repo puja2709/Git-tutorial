@@ -1,1 +1,5 @@
 This is first file.
+add another file an folder
+this is amazing 
+i learn new thing today 
+pushing codes into repo in github
